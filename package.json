@@ -1,0 +1,35 @@
+{
+  "name": "get-embedded-styles",
+  "description": "Get embedded CSS from an HTML string.",
+  "author": "John Otander",
+  "version": "0.0.1",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnotander/get-embedded-styles.git"
+  },
+  "keywords": [
+    "css",
+    "embed",
+    "embedded",
+    "styles"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnotander/get-embedded-styles/issues"
+  },
+  "homepage": "https://github.com/johnotander/get-embedded-styles",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "is-present": "0.0.1"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}

@@ -1,7 +1,11 @@
 {
   "name": "get-embedded-styles",
   "description": "Get embedded CSS from an HTML string.",
-  "author": "John Otander",
+  "author": {
+    "name": "John Otander",
+    "email": "johnotander@gmail.com",
+    "url": "johnotander.com"
+  },
   "version": "0.0.1",
   "main": "index.js",
   "files": [

@@ -1,4 +1,4 @@
-# get-embedded-styles [![Build Status](https://secure.travis-ci.org/johnotander/get-embedded-styles.png?branch=master)](https://travis-ci.org/johnotander/get-embedded-styles)
+# get-embedded-styles [![Build Status](https://secure.travis-ci.org/johnotander/get-embedded-styles.png?branch=master)](https://travis-ci.org/johnotander/get-embedded-styles) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 Get embedded CSS from an HTML string.
 

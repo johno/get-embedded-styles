@@ -17,6 +17,10 @@ getEmbeddedStyles('<style>.foo { color: tomato; }</style><h1 class="foo">Hello, 
 // => '.foo { color: tomato; }'
 ```
 
+## Related
+
+* [get-embedded-styles-cli](https://github.com/johnotander/get-embedded-styles-cli)
+
 ## License
 
 MIT
